@@ -2,5 +2,6 @@
 ## tralalal
 
 #SPIELT NICHT HERUM
-##THAT IS SERIOUS !!!!!!!!!
+##THAT IS SERIOUS !!!!!!!!
+* dies ist ein Bullet Point
 
