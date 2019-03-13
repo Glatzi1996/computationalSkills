@@ -1,0 +1,10 @@
+animals.txt
+creatures/
+data/
+molecules/
+my_file.txt
+north-pacific-gyre/
+pizza.cfg
+solar.pdf
+Thesis/
+writing/
