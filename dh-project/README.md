@@ -4,7 +4,7 @@ Teaching materials for AR Methodological Workshop - Computational Background Ski
 ## Schedule 2019S
 Time | Wednesday (6.3) | Thursday (7.3) | Wednesday (13.3) | Wednesday (20.3) | Thursday (21.3) |
 ---- | ---- | ---- | ---- | ---- | ----
-13:15 – 14:45 |  [Intro and Setup](lectures/intro_and_setup.md) | [Command line 3](lectures/command_3.md) | [Regular expressions 2](lectures/regex_2.md) | [How the Internet works](lectures/internet.md) | [Pre-programming 1](lectures/pre-programming_1.md) 
+13:15 – 14:45 |  [Intro and Setup](lectures/intro_and_setup.md) | [Command line 3](lectures/command_3.md) | [Regular expressions 2](lectures/regex_2.md) | [How the Internet works](lectures/internet.md) | [Pre-programming 1](lectures/pre-programming_1.md)
 14:45 – 15:00 |  Coffee break | Coffee break | Coffee break | Coffee break | Coffee break
 15:00 – 16:30 |  Command line 1: [Mac](lectures/command_1_mac.md) and [Windows](lectures/command_1_windows.md) | [Files and encodings](lectures/files_encodings.md) | [Git](lectures/git.md) | [Web technologies](lectures/web.md) | [Pre-programming 2](lectures/pre-programming_2.md)
 16:30 – 16:45 |  Coffee break | Coffee break | Coffee break | Coffee break | Coffee break
@@ -53,3 +53,5 @@ The exercise goals of each lecture are:
 ## Credits
 - Bootcamp: Computational groundwork skills by Pittsburgh-NEH-Institute: https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017
 - Software Carpentry workshop: https://software-carpentry.org/lessons/
+
+PS: Git is kinda confusing... 
