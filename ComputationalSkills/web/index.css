@@ -1,0 +1,7 @@
+#persons-table, #persons-table * {
+  border-spacing: 0;
+  border-collapse: collapse;
+  border: solid;
+}
+/* Console kann den Fehler finden
+*/ 
